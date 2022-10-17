@@ -1,2 +1,2 @@
-# P1---Migra-o-JScript-x-PHP-Her-is-
-Atividade utilizando PHP
+# atividadePHP_01_Marvel-DC
+DWII - Atividade PHP 01: Heróis Marvel x DC - migração da atividade em Javascript para PHP
